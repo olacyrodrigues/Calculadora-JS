@@ -1,8 +1,10 @@
 # Calculadora JS
 
-![calc js](https://user-images.githubusercontent.com/71050110/213832022-e21ec697-3873-4ece-8550-c6ae0c133595.png)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/71050110/213832022-e21ec697-3873-4ece-8550-c6ae0c133595.png">
+</p>
 
-É um pequeno projeto feito na conclusão da parte de Bootstrap do curso Onebitcode FullStack em Javascript, nesse pequeno projeto pude colocar em prática o que aprendi ao decorrer do curso até o momento sobre Sass e Bootstrap
+<h4>É um pequeno projeto Academico feito em aula no curso Onebitcode, visando práticar os aprendizados em JavaScript até o momento.</h4>
 
 ## Status
 
