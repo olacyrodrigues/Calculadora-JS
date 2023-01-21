@@ -20,7 +20,7 @@ $ Acesse o link < https://olacyrodrigues.github.io/Calculadora-JS/>
 
 ## 🚀 Sobre mim
 
-<p>Sou um desenvolvedor iniciante em busca constante de conhecimento, sinta-se avontade para
+<p>Sou um desenvolvedor iniciante em busca constante de conhecimento, sinta-se à vontade para
 me procurar em alguma rede social.</p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacy-rodrigues-449a03170/)
