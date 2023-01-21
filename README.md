@@ -1,6 +1,6 @@
 # Calculadora JS
 
-![Captura de tela 2022-12-16 235420](https://)
+![calc js](https://user-images.githubusercontent.com/71050110/213832022-e21ec697-3873-4ece-8550-c6ae0c133595.png)
 
 É um pequeno projeto feito na conclusão da parte de Bootstrap do curso Onebitcode FullStack em Javascript, nesse pequeno projeto pude colocar em prática o que aprendi ao decorrer do curso até o momento sobre Sass e Bootstrap
 
@@ -13,7 +13,7 @@ Status: Finalizado ✅
 Para visualizar o projeto basta acessar o link
 
 ```python
-$ Acesse o link < https://>
+$ Acesse o link < https://olacyrodrigues.github.io/Calculadora-JS/>
 ```
 
 ## 🚀 Sobre mim
